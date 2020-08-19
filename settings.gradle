@@ -1,0 +1,3 @@
+include ':LineGraph'
+include ':app'
+rootProject.name = "LineGraphExample"
